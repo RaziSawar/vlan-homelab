@@ -1,4 +1,4 @@
-VLAN-Segmentierung mit Proxmox und OPNsense
+## VLAN-Segmentierung mit Proxmox und OPNsense
 
 Dieses Homelab-Projekt zeigt die Einrichtung zweier VLANs, die automatische IP-Adressvergabe mit Dnsmasq und die Steuerung des Inter-VLAN-Verkehrs mit OPNsense. Ein Schwerpunkt war die systematische Fehlersuche bei der DHCP-Inbetriebnahme und bei den anschließenden Verbindungstests.
 
